@@ -1391,4 +1391,3 @@ Here is the course summary as given on the course [link](https://www.coursera.or
 
 <br><br>
 <br><br>
-These Notes were made by [Mahmoud Badry](mailto:mma18@fayoum.edu.eg) @2017
